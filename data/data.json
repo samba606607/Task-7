@@ -1,0 +1,82 @@
+{
+  "profiles":[
+    {
+      "image":"img/icon.png",
+      "id":1,
+      "name":"Samba",
+      "mail":"gkrajareddy@gmail.com",
+      "label":"DBA",
+      "company":"Infosys"
+    },
+    {
+      "image":"img/icon.png",
+      "id":2,
+      "name":"Sai Harsha",
+      "mail":"gkrajareddy@gmail.com",
+      "label":"Front-end",
+      "company":"Polaris"
+    },
+    {
+      "image":"img/icon.png",
+      "id":3,
+      "name":"Mouni sameera",
+      "mail":"gkrajareddy@gmail.com",
+      "label":"Tech-lead",
+      "company":"CA"
+    },
+    {
+      "image":"img/icon.png",
+      "id":4,
+      "name":"pavani nikitha",
+      "mail":"gkrajareddy@gmail.com",
+      "label":"Developer",
+      "company":"CVS"
+    }
+  ],
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2014-18","79%"]
+    },
+    {
+      "degree":"Intermediate/Diploma",
+      "institute":"Sri Chaitanya Junior College",
+      "data":["2012-14","93%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"STBEM",
+      "data":["2012","6.8"]
+    }
+  ],
+  "achievements":[
+    {
+      "name":"Awarded as <b>1<sup>st</sup>Prize</b> in <q>self-Defence</q>"
+    },
+    {
+      "name":"Got <strong>1<sup>st</sup>Prize</strong> for <q> PPT presentation.</q>"
+    }
+  ],
+  "skills":[
+    {
+    "name":"Programming Languages",
+    "data":["C","Java","Python","C++"]
+  },
+  {
+  "name":"DataBases",
+  "data":["mySql","Oracle"]
+},
+{
+"name":"Web Technologies",
+"data":["HTML","CSS","JavaScript"]
+},
+{
+"name":"Libraries and FrameWorks",
+"data":["jQuery","codeIgniter"]
+}
+  ]
+}
